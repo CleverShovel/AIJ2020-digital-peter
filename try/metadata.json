@@ -1,0 +1,4 @@
+{
+  "image": "clevershovel/ai-journey-2020",
+  "entry_point": "python run_eval.py"
+}
